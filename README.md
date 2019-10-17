@@ -1,7 +1,6 @@
-clone a repository
+clone a repository,
 write in console:
 ```
-cd phoneBook
 npm install
 npm start
 ```
