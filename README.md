@@ -1,5 +1,8 @@
-clone a repository,
-write in console:
+clone a repository with a command 
+```
+git clone https://github.com/xin90210/phoneBook.git
+```
+enter the folder created, write in terminal:
 ```
 npm install
 npm start
