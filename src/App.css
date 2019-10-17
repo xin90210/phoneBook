@@ -1,0 +1,23 @@
+.header {
+  text-align: center;
+  font-family: cursive;
+    text-shadow: 2px 2px 2px  #ee3e3e
+}
+
+.form{
+    box-shadow: 2px 2px 3px 3px  #ccc;
+    border: 2px  #eee;
+    padding:20px;
+    margin-top: 20px;  
+}
+
+.contacts{
+    margin-top: 20px
+}
+
+.App{
+    margin-top: 10%;
+    box-shadow: 2px 2px 3px 3px  #ccc;
+    border: 2px  #eee;
+    padding:20px;
+}
